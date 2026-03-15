@@ -1,9 +1,7 @@
 this is my first file in github
 learning started from here 
-
-1
-2
-3
-4
-5
-6
+i am 
+keerthi 
+and i work 
+as a devops 
+engineer 
